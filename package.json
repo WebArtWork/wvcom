@@ -1,0 +1,30 @@
+{
+	"name": "wacom",
+	"description": "Module which connect wawNg with back-end of waw frameworok",
+	"keywords": [
+		"angular",
+		"framework",
+		"waw"
+	],
+	"version": "0.0.1",
+	"license": "MIT",
+	"repository": "WebArtWork/wacom",
+	"author": {
+		"name": "Sikora Serg",
+		"email": "sikorasergii@gmail.com",
+		"url": "https://github.com/SikoraSergii"
+	},
+	"contributors": [
+		{
+			"name": "Honchar Denys",
+			"email": "crackeraki@gmail.com",
+			"url": "https://github.com/CrackerakiUA"
+		}
+	],
+	"engines": {
+		"node": ">=6.10.0"
+	},
+	"main": "./index.js",
+	"dependencies": {
+	}
+}
