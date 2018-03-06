@@ -1,30 +1,61 @@
 {
-	"name": "wacom",
-	"description": "Module which connect wawNg with back-end of waw frameworok",
-	"keywords": [
-		"angular",
-		"framework",
-		"waw"
-	],
-	"version": "0.0.1",
-	"license": "MIT",
-	"repository": "WebArtWork/wacom",
-	"author": {
-		"name": "Sikora Serg",
-		"email": "sikorasergii@gmail.com",
-		"url": "https://github.com/SikoraSergii"
-	},
-	"contributors": [
-		{
-			"name": "Honchar Denys",
-			"email": "crackeraki@gmail.com",
-			"url": "https://github.com/CrackerakiUA"
-		}
-	],
-	"engines": {
-		"node": ">=6.10.0"
-	},
-	"main": "./index.js",
-	"dependencies": {
-	}
+  "_from": "wvcom@*",
+  "_id": "wvcom@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-OzRp4uD6Eu7A3dE+imtBAhCXsjDTfnjUSlqNQQft+7p8VR/kVUfXR1xAihJnoU+wqjSd6sTVoknMQX+b5f8yUg==",
+  "_location": "/wvcom",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "wvcom@*",
+    "name": "wvcom",
+    "escapedName": "wvcom",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wvcom/-/wvcom-0.0.1.tgz",
+  "_shasum": "2453552533f348908e9daf8ea235c89e47a21477",
+  "_spec": "wvcom@*",
+  "_where": "C:\\Users\\pusan\\Desktop\\wawVue\\client",
+  "author": {
+    "name": "Bohdan Pusanuk",
+    "email": "pusanukbr@gmail.com",
+    "url": "https://github.com/pusanukbr"
+  },
+  "bugs": {
+    "url": "https://github.com/WebArtWork/wvcom/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Honchar Denys",
+      "email": "crackeraki@gmail.com",
+      "url": "https://github.com/CrackerakiUA"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Module which connect wawVue with back-end of waw frameworok",
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "homepage": "https://github.com/WebArtWork/wvcom#readme",
+  "keywords": [
+    "vue",
+    "framework",
+    "waw"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "wvcom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebArtWork/wvcom.git"
+  },
+  "version": "0.0.1"
 }
