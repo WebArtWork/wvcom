@@ -1,2 +1,2 @@
-# Web Art Work Vue Common Module
-Module which connect wawNg with back-end of waw frameworok
+# wvcom waw Vue.js common use
+Module which support waw project on basic level, elements and scripts which is needed on all projects.
